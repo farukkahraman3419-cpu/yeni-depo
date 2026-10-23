@@ -1,0 +1,8 @@
+# Müşteri, sipariş ve tahsilat verileri depoya konmaz
+*.xlsx
+*.xls
+*.csv
+*.json
+live/
+i/
+out/
